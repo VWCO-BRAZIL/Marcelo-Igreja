@@ -97,4 +97,16 @@
   .actions a:hover {
     background-color: #0040b8;
   }
-  
+
+    
+  .actions a.btn--wechat {
+    background-color: #07C160;
+  }
+  .actions a.btn--wechat:hover {
+    background-color: #05954a;
+  }
+
+  .actions a svg {
+    width: 20px;
+    height: 20px;
+  }
